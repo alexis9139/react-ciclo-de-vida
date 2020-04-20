@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './getSnapshotBeforeUpdate';
+import App from './getDeliveryStateFromProps';
 
 ReactDOM.render(
   <React.StrictMode>
