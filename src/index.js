@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Constructor from './Constructor';
+import App from './ComponenteUpdate';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Constructor />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
